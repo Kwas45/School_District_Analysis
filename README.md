@@ -17,16 +17,38 @@ Data Source [school_complete.csv](https://github.com/Kwas45/School_District_Anal
 
 ### SCHOOL DISTRICT ANALYSIS RESULTS
 
-1. ##### District Summary
-There wasn't much change between the district summary on the Initial Anaylsis(IA) versus the summary on the alteration of Thomas High School(THS) math and reading scores. 
+**1. District Summary**
+There wasn't much change between the district summary on the Initial Anaylsis(IA) versus the summary on the alteration of Thomas High School(THS) math and reading scores. As seen below, there were no changes to the total schools, total students, and total budget. The average math score, % passing math, % passing reading and % overall passing had decreases of 0.1, 0.2, 0.1, and 0.3 respectively. 
 
-**IA District Summary**
+*IA District Summary*
+
 ![pycity](https://user-images.githubusercontent.com/102786356/167341870-cd2874ce-43e0-445f-a8d6-4d3910845c69.png)
 
-**THS District Summary**
+*THS District Summary*
+
 ![ths nan](https://user-images.githubusercontent.com/102786356/167341904-ac3db7a7-504d-48ad-be09-7c3139b847ad.png)
 
-As seen above, there were no changes to the total schools, total students, and total budget. The average math score, % passing math, % passing reading and % overall passing had decreases of 0.1, 0.2, 0.1, and 0.3 respectively. 
+
+
+
+**2. School Summary**
+In the school summary the data for other schools experienced no change. Thomas High School didn't have much changes to their budget, student count, and average reading and math score. There was about a 25% decrease in % passing math, % passing reading, and % overall passing. 
+
+*IA School Summary*
+
+![ia school sum](https://user-images.githubusercontent.com/102786356/167344780-d7f8082b-be08-496f-94f3-908225a608bd.png)
+
+*THS Summary*
+
+![ths school sum](https://user-images.githubusercontent.com/102786356/167344836-cee3313b-7951-4e43-9195-e98b82225a16.png)
 
 
  
+
+**3. Thomas High School Performance**
+Although Thomas High School experienced a decrease in % overal passing, it wasn't the lowest percentage relative to other schools. With 65.08% it was at the 50th percentile. 
+
+*THS Summary*
+
+![ths school sum](https://user-images.githubusercontent.com/102786356/167344836-cee3313b-7951-4e43-9195-e98b82225a16.png)
+
