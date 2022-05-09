@@ -11,8 +11,22 @@ The purpose of this project is to replace the math and reading scores for Thomas
                
                 
 ### RESOURCES
-Data Source [school_complete.csv](![image](https://user-images.githubusercontent.com/102786356/167341001-bc3b6446-353a-476d-af06-83294966da96.png)
-            [students_complete.csv](![image](https://user-images.githubusercontent.com/102786356/167341049-d5dcb102-e824-4a90-8117-4dd0d7cc1622.png)
+Data Source [school_complete.csv](https://github.com/Kwas45/School_District_Analysis/tree/main/Resources)
+            [students_complete.csv](https://github.com/Kwas45/School_District_Analysis/tree/main/Resources)
  
 
 ### SCHOOL DISTRICT ANALYSIS RESULTS
+
+1. ##### District Summary
+There wasn't much change between the district summary on the Initial Anaylsis(IA) versus the summary on the alteration of Thomas High School(THS) math and reading scores. 
+
+**IA District Summary**
+![pycity](https://user-images.githubusercontent.com/102786356/167341870-cd2874ce-43e0-445f-a8d6-4d3910845c69.png)
+
+**THS District Summary**
+![ths nan](https://user-images.githubusercontent.com/102786356/167341904-ac3db7a7-504d-48ad-be09-7c3139b847ad.png)
+
+As seen above, there were no changes to the total schools, total students, and total budget. The average math score, % passing math, % passing reading and % overall passing had decreases of 0.1, 0.2, 0.1, and 0.3 respectively. 
+
+
+ 
