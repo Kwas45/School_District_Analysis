@@ -11,6 +11,8 @@ The purpose of this project is to replace the math and reading scores for Thomas
                
                 
 ### RESOURCES
-Data Source 
+Data Source [school_complete.csv](![image](https://user-images.githubusercontent.com/102786356/167341001-bc3b6446-353a-476d-af06-83294966da96.png)
+            [students_complete.csv](![image](https://user-images.githubusercontent.com/102786356/167341049-d5dcb102-e824-4a90-8117-4dd0d7cc1622.png)
+ 
 
 ### SCHOOL DISTRICT ANALYSIS RESULTS
