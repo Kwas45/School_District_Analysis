@@ -52,3 +52,18 @@ Although Thomas High School experienced a decrease in % overal passing, it wasn'
 
 ![ths school sum](https://user-images.githubusercontent.com/102786356/167344836-cee3313b-7951-4e43-9195-e98b82225a16.png)
 
+
+**4. Effects Of Alteration**
+Replacing the ninth-grade scores affected mostly Thomas High School ninth-graders. As seen below there were no changes to the math and reading scores of the other grades. Also, the overall passing for scores by school spending, school size, and school type had slight decrement due to the NaN values assigned to the scores of Thomas High School ninth-graders. 
+
+*IA Math and Reading Scores*
+
+![ia math grade](https://user-images.githubusercontent.com/102786356/167349146-407a9859-62bd-4e8a-a440-78d531bb83a5.png)
+![ia reading gra](https://user-images.githubusercontent.com/102786356/167349114-47eb3695-aae5-4729-809f-10177c288577.png)
+
+*THS Math and Reading Scores*
+
+![ths grade](https://user-images.githubusercontent.com/102786356/167349298-2b591430-c4fa-4974-b1f3-c59aba2dcb2b.png)
+![ths reading gra](https://user-images.githubusercontent.com/102786356/167349309-63816b7e-f81d-4b5b-b168-5a5cbb78fcff.png)
+
+
