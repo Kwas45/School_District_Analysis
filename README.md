@@ -67,3 +67,4 @@ Replacing the ninth-grade scores affected mostly Thomas High School ninth-grader
 ![ths reading gra](https://user-images.githubusercontent.com/102786356/167349309-63816b7e-f81d-4b5b-b168-5a5cbb78fcff.png)
 
 
+### SCHOOL DISTRICT ANALYSIS SUMMARY
